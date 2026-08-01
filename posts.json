@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "stochastic",
+    "title": "Stochastic Volatility Modeling",
+    "category": "Quantitative Analysis",
+    "date": "1 Aug 2026",
+    "image": "img/work-3.jpg",
+    "description": "Mathematical formulation and Python simulation of asset price paths."
+  }
+]
